@@ -16,7 +16,7 @@ title: Le Wagon - Middleman
   <div class="row">
     <h1>Recent flats</h1>
     <% data.cities.each do |city| %>
-      <div class="col-md-4">
+      <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="card" style="background-image: url(<%= city.picture %>);">
           <div class="card-category"><%= city.name %></div>
           <div class="card-description"><%= city.description %></div>
