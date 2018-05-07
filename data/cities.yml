@@ -1,0 +1,12 @@
+- name: PARIS, France
+  description: Nice flat
+  picture: 'https://kitt.lewagon.com/placeholder/cities/paris'
+
+- name: RIO, Brésil
+  description: Nice flat
+  picture: 'https://kitt.lewagon.com/placeholder/cities/rio'
+
+- name: LONDON, UK
+  description: Nice flat
+  picture: 'https://kitt.lewagon.com/placeholder/cities/london'
+
